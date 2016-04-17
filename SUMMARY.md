@@ -5,3 +5,4 @@
 * [Parking](asp.net/Parking/ParkingTask.md)
 * Задания на вакансию php-разработчика: [sql](sql/inform-mobil/tasksql.md) и [php](php/inform-mobil/tasksql.md)
 * [PhoneDictionary](asp.net/phonedictionary/phonedictionary.md)
+* [Задание от sports.kz](php/sports.kz/task_sportskz.md)
